@@ -1,4 +1,4 @@
-# alkimii exercise - Sergio Ruiz Pérez
+# Alkimii exercise - Sergio Ruiz Pérez
 
 ## Project setup
 ```
